@@ -7,9 +7,9 @@ const Home: React.FC = () => {
   return (
     <Container>
       <Head>
-        <title>Homepage</title>
+        <title>Peerlab</title>
       </Head>
-      <h1>ReactJS Structure</h1>
+      <h1>Home</h1>
     </Container>
   )
 }
